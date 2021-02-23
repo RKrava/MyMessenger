@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<ContactsList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Contacts>
+    <User>
+      <ID>4</ID>
+      <Login>ohhoney</Login>
+      <Name>Vika</Name>
+      <Surname>Kabanets</Surname>
+    </User>
+    <User>
+      <ID>5</ID>
+      <Login>Kucher</Login>
+      <Name>Vlad</Name>
+      <Surname>Kucherenko</Surname>
+    </User>
+    <User>
+      <ID>6</ID>
+      <Login>imt2</Login>
+      <Name>Lexa</Name>
+      <Surname>Ivnitskii</Surname>
+    </User>
+    <User>
+      <ID>3</ID>
+      <Login>Krava</Login>
+      <Name>Roman</Name>
+      <Surname>Kravchenko</Surname>
+    </User>
+  </Contacts>
+</ContactsList>
